@@ -1,7 +1,6 @@
-
 # Level complete - sample project
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t9I9gqbmyj8" frameborder="0" allowfullscreen></iframe>
+[![Parallax](https://img.youtube.com/vi/tSdTSvku1o8/0.jpg)](https://www.youtube.com/watch?v=tSdTSvku1o8)
 
 In this sample, we demonstrate effects to show the score counting that could occur when a level has been completed. A total score is counted up and three stars appears when different levels have been reached. The sample also uses the reload functionality for fast turn-around when tweaking values.
 
